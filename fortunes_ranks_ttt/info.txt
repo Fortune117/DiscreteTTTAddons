@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Donger"
+	"author_name" "author"
+	"info" ""
+}

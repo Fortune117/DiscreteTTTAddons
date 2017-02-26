@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pentagram/pentagram_metal"
+"$envmap" "env_cubemap"
+//	"$envmapcontrast" "1"
+"$envmaptint" "[ .9 .9 .9]"
+"$envmapsaturation" "[.1 .1 .1]"
+"model" 1
+
+}
